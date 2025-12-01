@@ -116,6 +116,17 @@ h2 {
  overflow: hidden;
 }
 
+.three{
+	background-color: rgb(255,255,255);
+  border: 3px solid rgb(75, 75, 75);
+  box-shadow: 0 0 15px 5px rgb(250, 224, 110);
+  max-width: 860px;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
 /* <img src="works/Florence.jpg" width="345" height="100" alt="Commander Lin Mae"/>
 	<img src="works/Louvre.jpg" width="335" height="85" alt="Commander Lin Mae"/>
 	<img src="works/Milan.jpg" width="325" height="80" alt="Commander Lin Mae"/>
